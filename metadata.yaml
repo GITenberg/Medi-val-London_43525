@@ -1,0 +1,33 @@
+_repo: Medi-val-London_43525
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43525-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Welch, Charles
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '42271'
+    url: http://www.gutenberg.org/2009/agents/42271
+  - agent_name: Benham, William
+    alias: Benham, W. (William)
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '5970'
+    url: http://www.gutenberg.org/2009/agents/5970
+description: ''
+gutenberg_issued: '2013-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43525'
+  lccn: '02011744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History -- To 1500'
+title: Mediæval London
+url: http://www.gutenberg.org/ebooks/43525
